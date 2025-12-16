@@ -18,3 +18,4 @@ class Food:
             (255, 0, 0),
             (self.x, self.y, self.block, self.block)
         )
+# hehehehehe

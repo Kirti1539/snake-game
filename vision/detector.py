@@ -34,3 +34,6 @@ def get_hand_direction(frame):
 
     # Compute direction
     return direction_detector.get_direction(hand_landmarks)
+
+
+#hellooooo
