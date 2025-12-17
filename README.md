@@ -17,19 +17,24 @@ This project is a modern version of the classic **Nokia Snake Game**, controlled
 - Controlled snake speed for smooth gameplay
 
 ## Project Structure
-nokia snake game real time hand movement
+
+```text
+nokia-snake-game-real-time-hand-movement/
 │
 ├── run.py
 ├── step1.py
 ├── step2.py
 ├── step3.py
+│
 ├── game/
-│ ├── snake.py
-│ ├── food.py
-│ └── main_game.py
-├── vision/
-│ ├── direction.py
-│ └── detector.py
+│   ├── snake.py
+│   ├── food.py
+│   └── main_game.py
+│
+└── vision/
+    ├── direction.py
+    └── detector.py
+
 
 ### File Descriptions
 
